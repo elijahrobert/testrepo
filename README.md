@@ -1,3 +1,5 @@
+![Open Source at Texas Instruments](https://github.com/elijahrobert/testrepo/blob/91650b21272b53e4b83d6d5be83c65d21170f0f4/TI-GitHubBanner-ReadMe.png)
+
 ## Welcome
 
 With over three decades of embedded development experience, commitment to industry standards, and an active involvement in the open source community, Texas Instruments offers software, tools and resources that simplify your development process, enhance long-term stability and accelerate your time to market. 
