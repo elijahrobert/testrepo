@@ -10,13 +10,13 @@ We believe in a collaborative culture centered around an upstream-first approach
 
 ## Developer resources
 
-[TI GitHub Sandbox](https://github.com/TexasInstruments-Sandbox) A secondary GitHub organization for Texas Instruments, containing projects not formally released as products on TI.com
+[TI GitHub Sandbox](https://github.com/TexasInstruments-Sandbox) - A secondary GitHub organization for Texas Instruments, containing projects not formally released as products on TI.com
 
-[Training academies](ti.com/design-development/ti-developer-zone.html#ti-developer-zone-tab-1) Interactive training experiences created by our experts
+[Training academies](ti.com/design-development/ti-developer-zone.html#ti-developer-zone-tab-1) - Interactive training experiences created by our experts
 
-[TI Developer Zone](https://dev.ti.com) Development tools and software
+[TI Developer Zone](https://dev.ti.com) - Development tools and software
 
-[TI E2E™ design support forums](https://e23.ti.com) Design support questions and answers
+[TI E2E™ design support forums](https://e23.ti.com) - Design support questions and answers
 
 ### Explore repositories by product category
 [Processors](https://github.com/search?q=topic%3Ati-processors+org%3ATexasInstruments+fork%3Atrue&type=repositories) | [ARM microcontrollers](https://github.com/search?q=topic%3Ati-ARM-microcontrollers+org%3ATexasInstruments+fork%3Atrue&type=repositories) | [Radar](https://github.com/search?q=topic%3Ati-radar+org%3ATexasInstruments+fork%3Atrue&type=repositories) | [Connectivity](https://github.com/search?q=topic%3Ati-connectivity+org%3ATexasInstruments+fork%3Atrue&type=repositories) | [C2000 microcontrollers](https://github.com/search?q=topic%3Ati-c2000-microcontrollers+org%3ATexasInstruments+fork%3Atrue&type=repositories) | [MSP microcontrollers](https://github.com/search?q=topic%3Ati-msp-microcontrollers+org%3ATexasInstruments+fork%3Atrue&type=repositories) | [APP](https://github.com/search?q=topic%3Ati-app+org%3ATexasInstruments+fork%3Atrue&type=repositories) | [Precision ADC](https://github.com/search?q=topic%3Ati-padc+org%3ATexasInstruments+fork%3Atrue&type=repositories)
