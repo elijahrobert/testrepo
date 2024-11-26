@@ -6,7 +6,7 @@ With over three decades of embedded development experience, a commitment to indu
 
 ## The power of community-based software 
 
-We believe in a collaborative culture centered around an upstream-first approach to software development and dependable long-term support. Built on decades of foundational community collaboration, our software leverages industry standards for frameworks, protocols, safety and security. 
+We believe in a collaborative culture centered around an upstream-first approach to software development and dependable long-term support. See more in each repository for how TI accepts contributions. 
 
 ## Developer resources
 
