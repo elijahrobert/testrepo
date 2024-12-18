@@ -1,4 +1,4 @@
-![Open Source at Texas Instruments](https://github.com/elijahrobert/testrepo/blob/6eea1986427cf8a087995698129e2432c24a0511/TI-GitHubBanner-ReadMe.png)
+![Open Source at Texas Instruments](https://github.com/elijahrobert/testrepo/blob/06ffbcdec28b000b4ed0337716907bd5a2374bd2/TI-GitHubBanner-Sandbox.png)
 
 ## Welcome to Texas Instruments' GitHub Sandbox!
 
