@@ -2,7 +2,7 @@
 
 ## Welcome to Texas Instruments' GitHub Sandbox!
 
-The Texas Instruments Sandbox GitHub is the secondary GitHub organization for Texas Instruments, which contains projects that are not formally released as products on TI.com. For additional repos, please refer to https://github.com/TexasInstruments
+The Texas Instruments GitHub Sandbox is the secondary GitHub organization for Texas Instruments, which contains projects that are not formally released as products on TI.com. For additional repos, please refer to https://github.com/TexasInstruments
 
 
 ### Other resources
