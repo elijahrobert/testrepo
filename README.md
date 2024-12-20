@@ -7,5 +7,5 @@ The Texas Instruments GitHub Sandbox is the secondary GitHub organization for Te
 
 ### Other resources
 * [TI.com](https://www.ti.com/)
-* TI Primary GitHub Page: https://github.com/TexasInstruments
-* Engineering Support Forum: https://e2e.ti.com/
+* [github.com/TexasInstruments](https://github.com/TexasInstruments) - TI's primary GitHub page
+* [e2e.ti.com](https://e2e.ti.com) - Engineering support forum
