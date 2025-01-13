@@ -1,3 +1,10 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="TI-Logo-White.svg">
+  <img alt="Text changing depending on mode. Light: 'So light!' Dark: 'So dark!'" src="TI-Logo-Color.svg">
+</picture>
+
+
+
 ![Open Source at Texas Instruments](https://github.com/elijahrobert/testrepo/blob/71ddae984db2cab6cc9bc1ac670738676bb73a1b/TI-GitHubBanner-Sandbox.png)
 
 ## Welcome
