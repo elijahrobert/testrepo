@@ -1,18 +1,20 @@
+<div align="center">
+
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="TI-Logo-White.svg">
-  <img alt="Text changing depending on mode. Light: 'So light!' Dark: 'So dark!'" src="TI-Logo-Color.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="TI-Logo-White.svg" width="300">
+  <img alt="Texas Instruments Logo" src="TI-Logo-Color.svg" width="300">
 </picture>
 
+# Repository Title
 
+[Section Link 1](#introduction) | [Section Link 2](#features) | [Section Link 3](#overview) | [Section Link 4](#overview)
 
-![Open Source at Texas Instruments](https://github.com/elijahrobert/testrepo/blob/71ddae984db2cab6cc9bc1ac670738676bb73a1b/TI-GitHubBanner-Sandbox.png)
+</div>
 
-## Welcome
+## Section 1
+### Subsection
+Content
 
-The Texas Instruments GitHub Sandbox is the secondary GitHub organization for Texas Instruments, which contains projects that are not formally released as products on TI.com. For additional repos, please refer to https://github.com/TexasInstruments
-
-
-### Other resources
-* [TI.com](https://www.ti.com/)
-* [github.com/TexasInstruments](https://github.com/TexasInstruments) - TI's primary GitHub page
-* [e2e.ti.com](https://e2e.ti.com) - Engineering support forum
+---
+### TI developer resources
+[TI.com developer resources](https://www.ti.com/design-development/software-development.html) | [Training academies](https://www.ti.com/tool/download/MSPM0-ACADEMY/1.00.00) | [TI Developer Zone](https://dev.ti.com) | [TI E2E™ support forums](https://e2e.ti.com)
